@@ -166,8 +166,8 @@ public class PratikHesapMak2Patika {
         int x = scan.nextInt();
         System.out.print("2. Kenar girin:");
         int y = scan.nextInt();
-        System.out.println("Alan:"+x*y);
-        int cevre=2*x+2*y;
-        System.out.println("Cevre:"+cevre);
+        System.out.println("Alan:" + x * y);
+        int cevre = 2 * x + 2 * y;
+        System.out.println("Cevre:" + cevre);
     }
 }
